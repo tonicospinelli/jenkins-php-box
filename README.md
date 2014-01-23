@@ -1,4 +1,4 @@
-jenkinsci-php-box
+Jenkins CI and PHP
 =================
 
 Jenkins CI and PHP for Continuous Integration
